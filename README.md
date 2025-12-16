@@ -1,6 +1,6 @@
 # SaaS-Ready-Premium-Booking-Platform
 
-![Bannière Josué Private Driver](public/img/hero_bg_premium.png)
+![Aperçu du Projet](public/img/screenshot_hero.png)
 
 > **L'Excellence Digitale.**
 > Le standard 2025 pour la vente de services et produits en ligne : Design Premium, UX Optimisée & Paiement Sécurisé.
@@ -49,19 +49,15 @@ Construit avec une stack moderne pour garantir performance et maintenabilité :
 
 ## 📸 Galerie
 
-### 1. Accueil Cinématique
-Une première impression inoubliable avec vidéo/image de fond immersive.
-![Hero Section](public/img/screenshot_hero.png)
-
-### 2. Sélection des Services (Bento Grid)
+### 1. Sélection des Services (Bento Grid)
 Une présentation claire et moderne des trajets populaires.
 ![Services](public/img/screenshot_services_v2.png)
 
-### 3. Réservation Simplifiée
+### 2. Réservation Simplifiée
 Un parcours utilisateur fluide pour maximiser les conversions.
 ![Booking Wizard](public/img/screenshot_booking.png)
 
-### 4. Flotte de Prestige
+### 3. Flotte de Prestige
 Une mise en avant immersive des véhicules disponibles.
 ![Fleet Section](public/img/screenshot_fleet_v2.png)
 
