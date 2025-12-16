@@ -1,8 +1,8 @@
 {
   "hero": {
     "title": {
-      "fr": "Votre chauffeur privé à Paris",
-      "en": "Your Private Driver in Paris"
+      "fr": "Votre chauffeur privé Josué",
+      "en": "Your Private Driver Josué"
     },
     "subtitle": {
       "fr": "Transferts haut de gamme vers Aéroports, Disneyland, City tours",
@@ -23,14 +23,14 @@
       "en": "Comfort - Security - Excellence"
     },
     "description": {
-      "fr": "Paris Private Driver est un service VTC haut de gamme dédié à vous offrir un trajet d'exception. Que ce soit pour un transfert vers l'aéroport, une sortie privée ou une visite touristique, nos chauffeurs expérimentés et nos véhicules de luxe vous garantissent confort, ponctualité et discrétion. Vivez une expérience personnalisée, élégante et sécurisée à chaque déplacement.",
-      "en": "Paris Private Driver is a premium VTC service dedicated to providing you with an exceptional ride. Whether it's an airport transfer, a private outing, or a city tour, our experienced drivers and luxury vehicles ensure comfort, punctuality, and discretion. Enjoy a personalized, elegant, and secure travel experience every time."
+      "fr": "Josué Private Driver est un service VTC haut de gamme dédié à vous offrir un trajet d'exception. Que ce soit pour un transfert vers l'aéroport, une sortie privée ou une visite touristique, nos chauffeurs expérimentés et nos véhicules de luxe vous garantissent confort, ponctualité et discrétion. Vivez une expérience personnalisée, élégante et sécurisée à chaque déplacement.",
+      "en": "Josué Private Driver is a premium VTC service dedicated to providing you with an exceptional ride. Whether it's an airport transfer, a private outing, or a city tour, our experienced drivers and luxury vehicles ensure comfort, punctuality, and discretion. Enjoy a personalized, elegant, and secure travel experience every time."
     },
     "image": "/ParisPrivateDriver/img/v-class.jpg"
   },
   "services": [
     {
-      "image": "/ParisPrivateDriver/img/CDG.jpg",
+      "image": "/ParisPrivateDriver/img/service_cdg_day.png",
       "title": {
         "fr": "CDG → Disneyland Paris",
         "en": "CDG to Disneyland Paris"
@@ -41,7 +41,7 @@
       }
     },
     {
-      "image": "/ParisPrivateDriver/img/orly.jpg",
+      "image": "/ParisPrivateDriver/img/service_orly_day.png",
       "title": {
         "fr": "Orly → Disneyland Paris",
         "en": "Orly to Disneyland Paris"
@@ -52,7 +52,7 @@
       }
     },
     {
-      "image": "/ParisPrivateDriver/img/GDN.jpg",
+      "image": "/ParisPrivateDriver/img/service_gdn_day.png",
       "title": {
         "fr": "Gare du Nord → Disneyland Paris",
         "en": "Gare du Nord to Disneyland Paris"
@@ -63,7 +63,7 @@
       }
     },
     {
-      "image": "/ParisPrivateDriver/img/beauvais.jpg",
+      "image": "/ParisPrivateDriver/img/service_beauvais_day.png",
       "title": {
         "fr": "Beauvais → Disneyland Paris",
         "en": "Beauvais to Disneyland Paris"
@@ -74,7 +74,7 @@
       }
     },
     {
-      "image": "/ParisPrivateDriver/img/disney.jpg",
+      "image": "/ParisPrivateDriver/img/service_paris_hotel_day.png",
       "title": {
         "fr": "Paris & Hôtels → Disneyland Paris",
         "en": "Paris & Hotels to Disneyland Paris"
@@ -303,15 +303,7 @@
   "fleetTitle": { "fr": "Nos véhicules d'exception", "en": "Our Premium Vehicles" },
   "fleet": [
     {
-      "image": "/ParisPrivateDriver/img/1.webp",
-      "title": { "fr": "Berline Confort", "en": "Comfort Sedan" },
-      "desc": {
-        "fr": "Voyagez sereinement à bord de notre berline confortable, idéale pour vos trajets quotidiens et transferts urbains.",
-        "en": "Travel with peace of mind in our comfortable sedan, perfect for daily rides and city transfers."
-      }
-    },
-    {
-      "image": "/ParisPrivateDriver/img/2.webp",
+      "image": "/ParisPrivateDriver/img/2.png",
       "title": { "fr": "Berline Affaires", "en": "Business Sedan" },
       "desc": {
         "fr": "Profitez d'un service haut de gamme avec notre berline affaires, alliant élégance, discrétion et performance pour vos déplacements professionnels.",
@@ -319,20 +311,76 @@
       }
     },
     {
-      "image": "/ParisPrivateDriver/img/3.webp",
-      "title": { "fr": "Van Confort", "en": "Comfort Van" },
-      "desc": {
-        "fr": "Idéal pour les familles ou petits groupes, notre van offre espace, confort et flexibilité pour tous vos transferts.",
-        "en": "Ideal for families or small groups, our van provides space, comfort, and flexibility for all your transfers."
-      }
-    },
-    {
-      "image": "/ParisPrivateDriver/img/4.webp",
+      "image": "/ParisPrivateDriver/img/4.png",
       "title": { "fr": "Van Prestige", "en": "Prestige Van" },
       "desc": {
         "fr": "Découvrez le summum du transport de groupe avec notre van prestige, parfait pour les événements, séminaires ou voyages d'affaires en toute sérénité.",
         "en": "Experience the ultimate in group transportation with our prestige van, perfect for events, seminars, or business trips in total serenity."
       }
+    }
+  ],
+  "forfaits": [
+    {
+      "image": "/ParisPrivateDriver/img/forfait-matin.jpg",
+      "title": { "fr": "Paris Matin Prestige", "en": "Prestige Morning in Paris" },
+      "duration": { "fr": "4 heures", "en": "4 hours" },
+      "price": "250€",
+      "desc": {
+        "fr": "Commencez votre journée par une découverte raffinée de Paris. Profitez d'un circuit exclusif à travers les sites emblématiques, dans le confort d'un véhicule haut de gamme avec chauffeur privé.",
+        "en": "Start your day with a refined Parisian experience. Enjoy an exclusive tour of iconic landmarks in the comfort of a premium vehicle with your private driver."
+      },
+      "cta": { "fr": "À venir", "en": "Coming soon" }
+    },
+    {
+      "image": "/ParisPrivateDriver/img/forfait-arc.jpg",
+      "title": { "fr": "Paris Grand Tour", "en": "Paris Grand Tour" },
+      "duration": { "fr": "8 heures", "en": "8 hours" },
+      "price": "450€",
+      "desc": {
+        "fr": "Vivez une immersion complète au cœur de la capitale. Ce forfait vous offre une journée sur-mesure pour explorer Paris et ses trésors, accompagné d'un service VTC d'exception.",
+        "en": "Experience a full day of discovery in the heart of Paris. This package offers a bespoke journey to explore the city's treasures, with outstanding VTC service throughout."
+      },
+      "cta": { "fr": "À venir", "en": "Coming soon" }
+    },
+    {
+      "image": "/ParisPrivateDriver/img/forfait-soir.jpg",
+      "title": { "fr": "Paris Nuit Élite", "en": "Elite Paris by Night" },
+      "duration": { "fr": "4 heures", "en": "4 hours" },
+      "price": "275€",
+      "desc": {
+        "fr": "Découvrez la magie de Paris illuminé lors d'une soirée inoubliable. Laissez-vous conduire à travers les plus beaux panoramas nocturnes, dans une atmosphère élégante et exclusive.",
+        "en": "Experience the magic of illuminated Paris on an unforgettable evening. Let yourself be driven through the city's most beautiful night views, in an elegant and exclusive setting."
+      },
+      "cta": { "fr": "À venir", "en": "Coming soon" }
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sophie L.",
+      "rating": 5,
+      "text": {
+        "fr": "Service irréprochable, chauffeur ponctuel et très professionnel. Véhicule luxueux et propre. Je recommande vivement !",
+        "en": "Impeccable service, punctual and very professional driver. Luxurious and clean vehicle. Highly recommended!"
+      },
+      "date": "2024-05-10"
+    },
+    {
+      "name": "Marc D.",
+      "rating": 5,
+      "text": {
+        "fr": "Expérience exceptionnelle de bout en bout. Réservation facile, accueil chaleureux et trajet très confortable.",
+        "en": "Outstanding experience from start to finish. Easy booking, warm welcome and very comfortable ride."
+      },
+      "date": "2024-04-28"
+    },
+    {
+      "name": "Elena P.",
+      "rating": 5,
+      "text": {
+        "fr": "Chauffeur très attentionné, service premium et grande discrétion. Je referai appel à Josué Private Driver sans hésiter.",
+        "en": "Very attentive driver, premium service and great discretion. I will use Josué Private Driver again without hesitation."
+      },
+      "date": "2024-03-15"
     }
   ]
 }
